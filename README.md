@@ -1,6 +1,6 @@
 - 👋 I'm Javier Tirado Ríos, I am currently a student at **Universidad Complutense**, in Madrid.
 
-- 🌱 I'm learning **C#**
+- 🌱 I'm learning **C#, C++ and JavaScript**
 
 - 📫 Contact me **javiertiradorios@gmail.com**
 
